@@ -30,7 +30,7 @@
         </InternalState>
         <InternalState>
                 <Name> ChildrenLifeTokens </Name>
-                <InitVal> 50 </InitVal>
+                <InitVal> 5000 </InitVal>
                 <FuncHandleName> FuncUpdateChildrenLifeTokens </FuncHandleName>
                 <DuplicateNum> 2 </DuplicateNum>
         </InternalState>
